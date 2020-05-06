@@ -137,11 +137,4 @@ namespace Script
             return false;
         }
     }
-
-    public enum PlayerMark
-    {
-        Blank,
-        Circle,
-        Cross
-    }
 }
